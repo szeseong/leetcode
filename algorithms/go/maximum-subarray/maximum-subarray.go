@@ -1,7 +1,7 @@
 func maxSubArray(nums []int) int {
     UintSize := 32 << (^uint(0) >> 32 & 1)
-    MaxInt  := 1<<((32 << (^uint(0) >> 32 & 1))-1) - 1 // 1<<31 - 1 or 1<<63 - 1
-    MinInt  := -MaxInt - 1         // -1 << 31 or -1 << 63
+    //MaxInt  := 1<<(UintSize-1) - 1 // 1<<31 - 1 or 1<<63 - 1
+    MinInt  := -(1<<(UintSize-1) - 1 ) - 1         // -1 << 31 or -1 << 63
     
     sum := 0
     max := MinInt
