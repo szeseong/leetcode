@@ -13,3 +13,4 @@ LeetCode
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Go](./algorithms/go/binary-tree-inorder-traversal/binary-tree-inorder-traversal.go)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Go](./algorithms/go/symmetric-tree/symmetric-tree.go)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Go](./algorithms/go/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.go)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Go](./algorithms/go/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.go)|Easy|
