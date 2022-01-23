@@ -16,3 +16,5 @@ LeetCode
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Go](./algorithms/go/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.go)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Go](./algorithms/go/majority-element/majority-element.go)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Go](./algorithms/go/reverse-linked-list/reverse-linked-list.go)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Go](./algorithms/go/invert-binary-tree/invert-binary-tree.go)|Easy|
+
