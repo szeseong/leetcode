@@ -14,3 +14,4 @@ LeetCode
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Go](./algorithms/go/symmetric-tree/symmetric-tree.go)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Go](./algorithms/go/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.go)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Go](./algorithms/go/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.go)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Go](./algorithms/go/majority-element/majority-element.go)|Easy|
